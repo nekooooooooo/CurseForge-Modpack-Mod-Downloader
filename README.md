@@ -1,2 +1,3 @@
 # CurseForge-Modpack-Mod-Downloader
-Just a simple python script I made for myself
+
+place manifest.json in the same directory then run the script
