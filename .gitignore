@@ -1,0 +1,13 @@
+# Ignore environment variables
+.env
+
+# Ignore temp files
+tempCodeRunnerFile.py
+
+# Ignore test files
+manifest.json
+getjson.py
+
+# Ignore reference folders
+/downloads
+/reference*files
